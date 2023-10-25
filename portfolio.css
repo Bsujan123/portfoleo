@@ -1,0 +1,268 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.nav-color{
+    background-color:#9aa5b1;
+}
+#nav-head{
+    color:white;
+    border-color:#4b6cc1;
+    border-style:solid;
+    padding:7px;
+}
+#navitem1{
+    color:white;
+    font-weight:600;
+    font-size:20px;
+}
+#navitem2{
+    color:white;
+    font-weight:600;
+    font-size:20px;
+}
+#navitem3{
+    color:white;
+    font-weight:600;
+    font-size:20px;
+}
+#navitem4{
+    color:white;
+    font-weight:600;
+    font-size:20px;
+}
+#navitem5{
+    color:white;
+    font-weight:600;
+    font-size:20px;
+}
+.banner-sec{
+    background-color:#191a1d;
+    padding-top:200px;
+    padding-bottom:200px;
+}
+.banner-img{
+    width:300px;
+}
+.banner-head{
+    font-family:Roboto;
+    color:white;
+    font-size:45px;
+    font-weight:600;
+}
+.banner-special{
+    color:#4b6cc1;
+}
+.banner-para{
+    color:#9aa5b1;
+    font-size:25px;
+}
+.banner-but{
+    background-color:#4b6cc1;
+    border-color:#4b6cc1;
+    border-width:0px;
+    border-radius:7px;
+    height:45px;
+    width:145px;
+    color:white;
+    font-size:23px;
+}
+/* FACT ABOUT ME SECTION */
+.about-sec {
+    background-color: #323f4b;
+}
+
+h3 {
+    color: #cced00;
+}
+
+.about-para {
+    color: white;
+    font-family: Roboto;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.about-img {
+    width: 100%;
+    background-size: cover;
+}
+
+.about-para {
+    color: #9aa5b1;
+    font-size: 19px;
+}
+
+.about-skill-card {
+    background-color: #1f2933;
+}
+
+.skill-card {
+    background-color: #323f4b;
+    border-radius: 8px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: green;
+    height: 125px;
+
+}
+
+.skill-card-img {
+    height: 64px;
+    width: 64px;
+}
+
+.skill-card-head {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 23px;
+}
+/* PROJECTS DONE SECTION */
+.project-sec{
+    background-color:#3e4c59
+}
+h3{
+   color:#cced00; 
+}
+.project-head{
+    color:white;
+    font-weight:bold;
+}
+.project-card{
+    background-color:#323f4b;
+}
+.project-card-sec{
+    height:40%;
+    width:100%;
+}
+.project-card-para1{
+    color:#9aa5b1;
+    font-size:25px;
+}
+.project-card-head{
+    color:white;
+}
+.project-card-para2{
+    color:#9aa5b1;
+    font-size:30px;
+}
+.project-link{
+    color:#cced00;
+}
+/* SERCE I DO SECTION*/
+.service-sec {
+    background-color: #52606d;
+}
+
+h3 {
+    color: #cced00;
+    font-weight: 600;
+}
+
+.service-head {
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.service-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.service-card-img {
+    height: 95px;
+    width: 95px;
+}
+
+.service-card-head {
+    color: white;
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.service-card-para {
+    color: #9aa5b1;
+    font-size: 30px;
+}
+/* WORK DONE SECTION */
+.done-sec {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+
+}
+
+.done-line {
+    background-color: #ffffff;
+    width: 60px;
+}
+.done-head{
+     font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+    color: #ffffff;
+}
+.done-para{
+     font-family: "Roboto";
+    font-weight: 200;
+    color: white;
+    font-size: 15px;
+}
+/* TESTIMONIAL SECTION */
+.test-sec {
+    background-color: #1f2933;
+}
+
+.test-head {
+    color: #cced00;
+    font-size: 35px;
+}
+
+.test-head1 {
+    color: white;
+    font-size: 45px;
+}
+
+.test-card {
+    background-color: #323f4b;
+}
+
+.car-img {
+    height: 80px;
+    width: 80px;
+}
+
+.card-img {
+    border-radius: 10px;
+
+}
+
+.car-para {
+    color: #9aa5b1;
+}
+
+.car-head {
+    color: white;
+    font-size: 20px;
+}
+/* FOOTER SECTION */
+.port-foot{
+    background-color:#0d2436;
+}
+.foot-img{
+    height:90px;
+    width:90px;
+    border-radius:40px;
+}
+h1{
+    color:#cced00;
+    font-size:25px;
+}
+.foot-para{
+    color:#9aa5b1;
+    font-size:20px;
+}
+.foot-icon{
+    color:#0d2436;
+}
+.foot-b{
+    background-color:#001c32;
+}
